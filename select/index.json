@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "脳味噌リジッドガール",
+  "base_artist": "森羅万象",
+  "createdAt": "2026-01-13T13:11:38.538778Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "脳味噌リジッドガール",
+      "artist": "森羅万象",
+      "has_synced": false,
+      "path": "select/pl_01_脳味噌リジッドガール_森羅万象.txt"
+    }
+  ]
+}
